@@ -4,9 +4,9 @@ Auteurs: Julien Tréguer et Louis Dorard — tous droits réservés
 
 Lecture: Hands-on ML (Aurélien Géron)
 
-## Lundi 25/11
+## Lundi 25/11 (Julien)
 
-## Mardi 26/11
+## Mardi 26/11 (Louis)
 
 * Migration du code GMSC sur repos créés par GitHub Classroom: démo par Nico C
   * Ajout de remote puis pull
@@ -29,7 +29,7 @@ Lecture: Hands-on ML (Aurélien Géron)
   * [10'] Restitution (+ 10' questions-réponses)
 * Discussion: split train-val se fait avant ou après la mise à l’échelle des données?
 
-## Mercredi
+## Mercredi 27/11 (Louis)
 
 * Point sur apprentissage poids et biais dans un modèle de régression linéaire
   * Idée de la descente de gradient
@@ -38,7 +38,28 @@ Lecture: Hands-on ML (Aurélien Géron)
 * Intervention de Fabien Durand de BigML. TODO ajouter slides.
 * Démo Keras pour régression linéaire à 1 variable, sur données House Prices
 
-## Vendredi
+## Jeudi 28/11 (Julien)
+
+Matin: 
+
+* Poursuite de l'atelier 2, classification d'images avec SVC/XGBoost sur 
+les datasets Fashion MNIST et Hand Digits 
+* Restitutions sous forme de matrice confusion 
+* Mise en commun des résultats 
+* Présentation d'un code exemple (Guillaume) qui montre les performances 
+de SVC/XGBoost sur données brutes, sur données réduites avec PCA et 
+comparaison des temps de calcul 
+
+Après-midi:
+
+* Introduction au Data Augmentation avec Keras 
+* Utilisation de la classe de preprocessing ImageDataGenerator sur 9 
+images extraites de Hand Digits avec pour objectif d'appliquer des 
+shifts, rotation, extraction de features et ZCA 
+* Présentation de la logique de Keras et des fonctions les plus usités 
+* Reprise du notebook sur House Prices avec Keras et pistes d'évolution 
+
+## Vendredi 29/11 (Louis)
 
 * Résumé par Baptiste de la Conférence débat - La data : menace pour l'environnement ? https://www.facebook.com/MaisonecocitoyenneBordeaux/videos/1032697020456205/
 * Discussion et veille sur le sujet IA comme aide/coût pour l'environnement
