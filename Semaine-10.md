@@ -6,6 +6,17 @@ Lecture: Hands-on ML (Aurélien Géron)
 
 ## Lundi 25/11 (Julien)
 
+[Brief](https://github.com/Simplon-IA-Bdx-1/ia-bdx-cv-project1)
+
+* Lecture d'articles sur la vision par ordinateur et le deep learning
+* Présentation de la logique de calcul dans scikit learn
+* Ateliers pratiques sous Python de réduction de dimensionnalité sur 2 datasets d'images :
+  - Hand digits
+  - Fashion MNIST
+* Techniques à mettre en oeuvre par groupes de 4 : PCA, ICA, t-SNE, UMAP
+* Ateliers pratiques sous Python de classification d'images sur les mêmes datasets avec SVM ou XGBoost
+
+
 ## Mardi 26/11 (Louis)
 
 * Migration du code GMSC sur repos créés par GitHub Classroom: démo par Nico C
@@ -39,6 +50,8 @@ Lecture: Hands-on ML (Aurélien Géron)
 * Démo Keras pour régression linéaire à 1 variable, sur données House Prices
 
 ## Jeudi 28/11 (Julien)
+
+[Brief](https://github.com/Simplon-IA-Bdx-1/ia-bdx-cv-project2)
 
 Matin: 
 
