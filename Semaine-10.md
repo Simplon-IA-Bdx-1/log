@@ -93,3 +93,4 @@ shifts, rotation, extraction de features et ZCA
     * https://seaborn.pydata.org/generated/seaborn.jointplot.html
   * Illustrer le problème de “curse of dimensionality” (Christophe)
     * https://medium.com/diogo-menezes-borges/give-me-the-antidote-for-the-curse-of-dimensionality-b14bce4bf4d2
+* Suite exercice house prices avec Keras / réseaux de neurones
