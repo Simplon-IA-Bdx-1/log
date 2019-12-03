@@ -8,7 +8,8 @@ Auteurs: Arnaud de Mouhy, Julien Tréguer et Louis Dorard — tous droits réser
 
 ## Mardi 3/12 (Louis)
 
-* Présentation veille logloss en 10'
+* [Présentation veille log-loss](https://github.com/Simplon-IA-Bdx-1/log-loss-prez/blob/master/SujetVeille_LogLoss.ipynb) en 10'
+* Suite house prices Keras / NN
 
 ## Mercredi 4/12 (Arnaud)
 
