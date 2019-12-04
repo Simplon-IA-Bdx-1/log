@@ -41,6 +41,7 @@ Auteurs: Arnaud de Mouhy, Julien Tréguer et Louis Dorard — tous droits réser
   * 2 neurones entrée, 1 neurone sortie, 2 couches cachées de 3 neurones: combien de paramètres à apprendre? (coefficients et biais) (Laurent)
   * Avantages / désavantages d’initialiser tous les poids à 0? (Rodolphe)
   * Visualiser comportement de rescale, standardize, etc., sur jeux de données de votre choix (réel ou fictif) - par exemple, comment ça se passe avec les outliers? (sans vous limiter à ça non plus) (Damien)
+* Log de la formation (ce document, et les autres!)
 * House prices Keras / NN
   * Présentation Rodolphe XGB House Prices
   * Présentation MLP Yohan
@@ -52,6 +53,7 @@ Auteurs: Arnaud de Mouhy, Julien Tréguer et Louis Dorard — tous droits réser
 * Travail pour le week-end:
   * Relisez le référentiel de compétences
   * Se former sur les branches Git: création, merge, pull request, etc.
+  * Finaliser GMSC si besoin (voir [brief](https://gist.github.com/louisdorard/459f65419c078c38ceb4802c9bb3ba8c), et en particulier _Livrables_ et _Evaluation_)
 
 ## Vendredi 6/12 (Arnaud)
 
