@@ -49,7 +49,9 @@ Auteurs: Arnaud de Mouhy, Julien Tréguer et Louis Dorard — tous droits réser
     * Calcul métriques de performance: MSE, RMSE sur log-prix, R^2 sur log-prix
   * Démo BigML pour trouver une bonne architecture de NN, et répliquer sur Keras
   * (Re-)lecture [brief](https://gist.github.com/louisdorard/6d4552ff86d033e7cc8fbab82c80bf71), en particulier _Livrables_ et _Evaluation_
-* Travail pour le week-end: relisez le référentiel de compétences 
+* Travail pour le week-end:
+  * Relisez le référentiel de compétences
+  * Se former sur les branches Git: création, merge, pull request, etc.
 
 ## Vendredi 6/12 (Arnaud)
 
