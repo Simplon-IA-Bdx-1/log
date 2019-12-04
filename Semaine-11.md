@@ -42,9 +42,14 @@ Auteurs: Arnaud de Mouhy, Julien Tréguer et Louis Dorard — tous droits réser
   * Avantages / désavantages d’initialiser tous les poids à 0? (Rodolphe)
   * Visualiser comportement de rescale, standardize, etc., sur jeux de données de votre choix (réel ou fictif) - par exemple, comment ça se passe avec les outliers? (sans vous limiter à ça non plus) (Damien)
 * House prices Keras / NN
+  * Présentation Rodolphe XGB House Prices
+  * Présentation MLP Yohan
   * Suite présentation d'un MLP à 1 couche cachée
     * Passage d'une prédiction à une valeur sur l'échelle d'origine en dollars
     * Calcul métriques de performance: MSE, RMSE sur log-prix, R^2 sur log-prix
+  * Démo BigML pour trouver une bonne architecture de NN, et répliquer sur Keras
+  * (Re-)lecture [brief](https://gist.github.com/louisdorard/6d4552ff86d033e7cc8fbab82c80bf71), en particulier _Livrables_ et _Evaluation_
+* Travail pour le week-end: relisez le référentiel de compétences 
 
 ## Vendredi 6/12 (Arnaud)
 
