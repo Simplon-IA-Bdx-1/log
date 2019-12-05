@@ -43,17 +43,22 @@ Auteurs: Arnaud de Mouhy, Julien Tréguer et Louis Dorard — tous droits réser
   * Visualiser comportement de rescale, standardize, etc., sur jeux de données de votre choix (réel ou fictif) - par exemple, comment ça se passe avec les outliers? (sans vous limiter à ça non plus) (Damien)
 * Log de la formation (ce document, et les autres!)
 * House prices Keras / NN
-  * Présentation Rodolphe XGB House Prices
-  * Présentation MLP Yohan
+  * Présentation Rodolphe XGB House Prices; mention des ensembles de modèles
+  * Présentation Yohan MLP; mention de nouvelles options pour `kernel_initializer` et `optimizer` qui donnent de meilleurs résultats sur house prices
+  * Présentation Pierre suppression outliers
   * Suite présentation d'un MLP à 1 couche cachée
     * Passage d'une prédiction à une valeur sur l'échelle d'origine en dollars
     * Calcul métriques de performance: MSE, RMSE sur log-prix, R^2 sur log-prix
   * Démo BigML pour trouver une bonne architecture de NN, et répliquer sur Keras
   * (Re-)lecture [brief](https://gist.github.com/louisdorard/6d4552ff86d033e7cc8fbab82c80bf71), en particulier _Livrables_ et _Evaluation_
+  * Objectif semaine prochaine: finaliser projet, et améliorer le code pour faciliter:
+    * reproductibilité des résultats
+    * tests de différentes combinaisons de valeurs d'hyperparamètres
+    * déploiement en production et prédictions sur 1 seule nouvelle input
 * Travail pour le week-end:
-  * Relisez le référentiel de compétences
-  * Se former sur les branches Git: création, merge, pull request, etc.
-  * Finaliser GMSC si besoin (voir [brief](https://gist.github.com/louisdorard/459f65419c078c38ceb4802c9bb3ba8c), et en particulier _Livrables_ et _Evaluation_)
+  * Relire le référentiel de compétences, pour faire le lien avec les compétences visées par les projets
+  * Se former sur les branches Git: création, merge, pull request, etc., pour savoir collaborer avec votre binôme
+  * Finaliser GMSC si besoin, pour se mettre en mode "finalisation" avant les vacances (voir [brief](https://gist.github.com/louisdorard/459f65419c078c38ceb4802c9bb3ba8c), et en particulier _Livrables_ et _Evaluation_)
 
 ## Vendredi 6/12 (Arnaud)
 
