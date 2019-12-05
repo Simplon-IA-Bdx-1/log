@@ -4,14 +4,34 @@ Auteurs: Julien Tréguer et Louis Dorard — tous droits réservés
 
 ## Lundi 9/12 (Louis)
 
-* Présentation veille Régularisation L1 L2 en 10'
-* Passage en revue du [Référentiel de compétences](https://docs.google.com/document/d/19wtrWmbtZeeZ3zpxypq9ZvpidH5ZPb4pZgRKJ_2s6kY/edit) et lecture commentée
+* [ ] Présentation veille Régularisation L1 L2 en 10'
+* [ ] Point sur la régression logistique (i.e. comment utiliser la régression linéaire, la fonction logistique et la log-loss pour apprendre un classifieur)
+* [ ] Passage en revue du [Référentiel de compétences](https://docs.google.com/document/d/19wtrWmbtZeeZ3zpxypq9ZvpidH5ZPb4pZgRKJ_2s6kY/edit) et lecture commentée
+* [ ] Nouveau point sur ce que vous avez appris, depuis la dernière fois qu’on a fait ce point 
+* [ ] Docker vs environnements conda
+* [ ] Travail en binôme
+  * [ ] Expliquez à votre binôme ce que vous avez fait
+  * [ ] Git branch merge 
+  * [ ] Extreme Programming (par tranches de 30') - quelques idées:
+    * Reproduire résultats de personne 1 sur ordi de personne 2
+    * Améliorer
+  * [ ] Se répartir un travail de refactoring + mise au propre du code + ajout de commentaires / explications (super activité quand vous êtes face à un mur!)
+  * [ ] Essayer idées différentes, en parallèle; par exemple:
+    * Test sur BigML 
+    * Un qui traite les valeurs numériques manquantes et le choix de scaler, l’autre qui traite les valeurs catégorielles. 
+    * Implem de RMSLE pour affichage dans Keras 
+    * Affichage de learning curve en fonction de la taille des données
 
 ## Mardi 10/12 (Louis)
 
 Présentation des veilles en 2’:
 
-...
+* Plotly Dash (Nicolas S)
+* Seed sur tensorflow et keras (Maud)
+* Démo impact valeur anormale + comparaison régression linéaire classique et RLM?
+* Détection d’anomalies avec BigML et/ou scikit (Maxime)
+* Possible d’utiliser MAPE au lieu de MSE, pour descente de gradient? (Mehdi)
+* Equation normale pour régression linéaire avec 1 seule feature + étapes pour y arriver (Bastien)
 
 ## Mercredi 11/12 (Julien)
 
