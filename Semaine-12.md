@@ -39,6 +39,8 @@ Présentation veille RNN en 10'
 
 ## Jeudi 12/12 (Julien)
 
-
+Présentation veille Features polynomiales en 10'
 
 ## Vendredi 13/12 (Louis)
+
+Présentation veille Cross-validation en 10'
