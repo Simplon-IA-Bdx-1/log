@@ -5,6 +5,28 @@ Auteurs: Arnaud de Mouhy, Julien Tréguer et Louis Dorard — tous droits réser
 ## Lundi 2/12 (Julien)
 
 * Présentation veille CNN en 10'
+* Retour sur le notebook House Prices
+    - Choix d'une variable catégorielle (bon sens)
+    - Transformation de la variable catégorielle en numérique avec Pandas
+    - Régression à 2 variables dans Keras, comparaison des résultats
+    - Travail de préparation des données entre variables numériques et catégorielles, nettoyage des données
+    - Application d'XGBoost aux données
+    - Hiérarchisation des variables obtenue par XGBoost
+    - Evaluation de la performance du régresseur
+* Computer Vision avec OpenCV
+
+__Traitement d'image__
+  - Installation de la librairie OpenCV
+  - Charger des images avec leurs couleurs ou leurs niveau de gris
+  - Convertir dans différents espaces de couleur
+  - Charger des images dans un répertoire, appliquer un changement de taille et sauver les images réduites
+  - Essayer de segmenter des images de flammes à l'aide des couleurs
+
+__Traitement de vidéos__
+
+  - Charger un flux vidéo et le faire jouer dans une fenêtre (impossible depuis le docker, il a fallu passer par Anaconda en local)
+  - Appliquer des méthodes de tracking incluses dans OpenCV
+  - Appliquer une méthode de segmentation sémantique ([voir](https://towardsdatascience.com/object-detection-with-less-than-10-lines-of-code-using-python-2d28eebc5b11))
 
 ## Mardi 3/12 (Louis)
 
