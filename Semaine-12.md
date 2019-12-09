@@ -36,7 +36,6 @@ Après-midi:
   * Seed sur tensorflow et keras (Maud)
   * Démo impact valeur anormale + comparaison régression linéaire classique et RLM?
   * Détection d’anomalies avec BigML et/ou scikit (Maxime)
-  * Possible d’utiliser MAPE au lieu de MSE, pour descente de gradient? (Mehdi)
   * Equation normale pour régression linéaire avec 1 seule feature + étapes pour y arriver (Bastien)
 * [ ] Passage en revue du Référentiel de compétences et lecture commentée
 * [ ] Nouveau point sur ce que vous avez appris (depuis la dernière fois qu’on a fait ce point)
