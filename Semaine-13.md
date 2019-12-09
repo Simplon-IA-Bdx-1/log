@@ -10,6 +10,8 @@ Auteurs: Julien Tréguer et Louis Dorard — tous droits réservés
   * PCA dans BigML et/ou scikit-learn (Nicolas A)
   * Régression linéaire dans BigML 
   * Régression logistique dans BigML
+  * Utilisation du log dans la préparation des données (features ou outputs): motivation et résultats 
+  * Huber loss
   * Tensorboard (Thibaud)
 
 ## Mardi 17/12 (Julien)
@@ -24,3 +26,4 @@ Veille Pre-processing de données dans scikit 0.22 en 10'
 
 ## Vendredi 20/12 (Louis)
 
+Présentation veille Cross-validation en 10' (Vincent, Pierre, Nicolas C, Yohan)
