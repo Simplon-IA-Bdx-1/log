@@ -18,7 +18,7 @@ Après-midi:
 * [ ] Point sur la régression logistique (i.e. comment utiliser la régression linéaire, la fonction logistique et la log-loss pour apprendre un classifieur)
 * [ ] Travail en binôme
   * [ ] Expliquez à votre binôme ce que vous avez fait
-  * [ ] Git branch merge 
+  * [ ] Branches git, pour avoir le code de votre binôme en plus du votre
   * [ ] Extreme Programming (par tranches de 30') - quelques idées:
     * Reproduire résultats de personne 1 sur ordi de personne 2
     * Améliorer
