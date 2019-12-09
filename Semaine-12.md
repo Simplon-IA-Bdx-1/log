@@ -48,6 +48,4 @@ Présentation veille RNN en 10'
 
 Présentation veille Features polynomiales en 10'
 
-## Vendredi 13/12 (Louis)
-
-Présentation veille Cross-validation en 10'
+## Vendredi 13/12 (Perrine)
