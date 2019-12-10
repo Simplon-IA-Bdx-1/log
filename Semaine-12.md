@@ -31,14 +31,20 @@ Après-midi:
 
 ## Mardi 10/12 (Louis)
 
-* Certification BigML ("Advanced Modeling Part I") ou veille sur Azure Machine Learning (au choix)
-* Présentation des veilles en 2’:
+* [ ] Certification BigML ou veille sur Azure Machine Learning (au choix)
+  * Aujourd'hui: "Advanced Modeling Part I"
+  * Recap de quand vous recevrez les questions pour la certif BigML, et quand vous devrez envoyer vos réponses:
+    * Vendredi 13 pour vidéo 2, deadline réponse le mardi 17 minuit
+    * Vendredi 20 matin pour vidéo 3, deadline réponse midi
+    * Vendredi 20 après-midi pour toutes les autres questions des autres vidéos (4, 5, 6, 7, 8), deadline réponses le 5 janvier minuit
+* [ ] Présentation des veilles en 2’:
   * Plotly Dash (Nicolas S)
   * Seed sur tensorflow et keras (Maud)
   * Démo impact valeur anormale + comparaison régression linéaire classique et RLM?
   * Détection d’anomalies avec BigML et/ou scikit (Maxime)
   * Equation normale pour régression linéaire avec 1 seule feature + étapes pour y arriver (Bastien)
 * [ ] Passage en revue du Référentiel de compétences et lecture commentée
+  * Radar chart (avec [Plotly](https://plot.ly/python/radar-chart/)?) pour votre arbre de compétences?
 * [ ] Nouveau point sur ce que vous avez appris (depuis la dernière fois qu’on a fait ce point)
 
 ## Mercredi 11/12 (Julien)
