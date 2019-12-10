@@ -16,14 +16,15 @@ Auteurs: Julien Tréguer et Louis Dorard — tous droits réservés
 
 ## Mardi 17/12 (Julien)
 
-Veille Transfer Learning en 10'
+* Veille Transfer Learning en 10'
 
 ## Mercredi 18/12 (Perrine)
 
 ## Jeudi 19/12 (Louis)
 
-Veille Pre-processing de données dans scikit 0.22 en 10'
+* Veille Pre-processing de données dans scikit 0.22 en 10'
 
 ## Vendredi 20/12 (Louis)
 
-Présentation veille Cross-validation en 10' (Vincent, Pierre, Nicolas C, Yohan)
+* Certification BigML ("Advanced Modeling Part I") ou veille sur Azure Machine Learning (au choix)
+* Présentation veille Cross-validation en 10' (Vincent, Pierre, Nicolas C, Yohan)
