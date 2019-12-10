@@ -31,6 +31,7 @@ Après-midi:
 
 ## Mardi 10/12 (Louis)
 
+* Certification BigML ("Advanced Modeling Part I") ou veille sur Azure Machine Learning (au choix)
 * Présentation des veilles en 2’:
   * Plotly Dash (Nicolas S)
   * Seed sur tensorflow et keras (Maud)
@@ -42,10 +43,10 @@ Après-midi:
 
 ## Mercredi 11/12 (Julien)
 
-Présentation veille RNN en 10'
+* Présentation veille RNN en 10'
 
 ## Jeudi 12/12 (Julien)
 
-Présentation veille Features polynomiales en 10'
+* Présentation veille Features polynomiales en 10'
 
 ## Vendredi 13/12 (Perrine)
