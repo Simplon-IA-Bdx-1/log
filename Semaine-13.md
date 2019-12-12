@@ -13,6 +13,8 @@ Auteurs: Julien Tréguer et Louis Dorard — tous droits réservés
   * Utilisation du log dans la préparation des données (features ou outputs): motivation et résultats 
   * Huber loss
   * Tensorboard (Thibaud)
+* Rappel BigML vidéo 2
+* Entretiens individuels
 
 ## Mardi 17/12 (Julien)
 
@@ -23,8 +25,10 @@ Auteurs: Julien Tréguer et Louis Dorard — tous droits réservés
 ## Jeudi 19/12 (Louis)
 
 * Veille Pre-processing de données dans scikit 0.22 en 10'
+* Entretiens individuels
 
 ## Vendredi 20/12 (Louis)
 
 * Certification BigML ("Advanced Modeling Part I") ou veille sur Azure Machine Learning (au choix)
 * Présentation veille Cross-validation en 10' (Vincent, Pierre, Nicolas C, Yohan)
+* Entretiens individuels
