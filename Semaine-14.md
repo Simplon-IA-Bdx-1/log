@@ -18,3 +18,22 @@ Auteurs: Julien Tréguer et Louis Dorard — tous droits réservés
   - prediction pipeline (qui peut être un seul objet scikit)
   - training pipeline (similaire à un 'experiment' dans Azure ML?)
 - Nouveaux sujets de veille: https://docs.google.com/document/d/1mlgYEgpWH5JTuEH6lCtlXJl0DgQoN10qvxhs5ejuvAA/edit#
+
+## Mercredi 8/1/2020 (Louis)
+
+- Pair-évaluation: 
+  - expliquer le concept et le but
+  - voir "grille" d'évaluation dans brief: https://gist.github.com/louisdorard/459f65419c078c38ceb4802c9bb3ba8c
+  - groupes: https://keamk.com/3udaqsi6tktbm75dtf7rm3hs et https://www.keamk.com/6u8r8rtvjnb892uqfm28oi4q
+  - réexécuter -> modifs nécessaires? fork puis pull request?
+  - critiquer, mais avec bienveillance; valoriser ce qu'il y a de bon
+  - sondage: qui a réussi à ré-exécuter? qui a fait des modifs au projet de son binôme, pour le faire fonctionner? qui a déjà fourni sa fiche d'évaluation? qui a noté des idées d'amélioration pour soi?
+- Entretiens individuels
+
+## Jeudi 9/1/2020 (Louis)
+
+Check avancement house prices?
+
+Lancement projet immo
+- Constituer des groupes de 4
+- Brief - à voir
