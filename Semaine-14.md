@@ -32,8 +32,13 @@ Auteurs: Julien Tréguer et Louis Dorard — tous droits réservés
 
 ## Jeudi 9/1/2020 (Louis)
 
-Check avancement house prices?
+- Check avancement house prices
+- Entretiens individuels
+- Projets bonus:
+  - Si GMSC et house prices finis, prendre en compte feedback de vos pairs afin d’améliorer votre travail. Auto-évaluez-vous sur house prices.
+  - Nouveau projet Kaggle: StumbleUpon, pour refaire EDA, création de modèle, etc. Attention, difficulté particulière au niveau de la création d’une prediction sur un nouvel input.
+  - Utiliser Azure ML sur un des projets Kaggle. Peut-être pour utiliser du GPU pour le projet computer vision? Ou mettre en place une pipeline qui met à jour votre modèle automatiquement, si vous changez votre code.
+  - Travailler sujet de veille
+  - Continuer la lecture de ML ou DL with Python, ou de Hands-on ML
 
-Lancement projet immo
-- Constituer des groupes de 4
-- Brief - à voir
+Appli compétences 
