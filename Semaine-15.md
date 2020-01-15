@@ -19,6 +19,3 @@ Auteurs: Julien Tréguer, William Brojanigo et Louis Dorard — tous droits rés
   * Deadline: 23 Janvier au soir
 
 ## Vendredi 17/01 - William
-
-* Présentation sujet de veille: Ensembles et Random Forests - Thibaud Clement Alexis Rodolphe
-
