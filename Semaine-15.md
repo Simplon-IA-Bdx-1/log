@@ -14,9 +14,9 @@ Auteurs: Julien Tréguer, William Brojanigo et Louis Dorard — tous droits rés
   * Git flow - Laurent
   * Lift (mesure de performance) - Pierre
 * Lancement projet immo "end-to-end"
-  * Constituer des groupes de 4
+  * Constituer des groupes de 4, avec des profils complémentaires: ceux qui ont une expérience / bonne connaissance de git et git flow, de la méthodo Agile, ceux qui veulent développer leurs compétences BDD, EDA, ou création de modèle
   * Brief - TODO
-* Entretiens individuels
+  * Deadline: 23 Janvier au soir
 
 ## Vendredi 17/01 - William
 
