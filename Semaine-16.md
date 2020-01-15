@@ -4,7 +4,9 @@ Auteurs: William Brojanigo et Louis Dorard — tous droits réservés
 
 ## Lundi 20/01 - Louis
 
-* Présentation sujet de veille: API-fication d’un modèle avec Flask (librairie Python) - Nico C. Julien Silvia Damien
+* Présentation sujets de veille:
+  * API-fication d’un modèle avec Flask (librairie Python) - Nico C. Julien Silvia Damien
+  * Ensembles et Random Forests - Thibaud Clement Alexis Rodolphe
 
 ## Vendredi 24/01 - Louis
 
