@@ -1,4 +1,6 @@
-# Semaine 16 — formation Simplon IA à Bordeaux, promo 1
+# Semaines 16 et 17 — formation Simplon IA à Bordeaux, promo 1
+
+Note: seulement 2 jours sur la semaine 17!
 
 Auteurs: William Brojanigo et Louis Dorard — tous droits réservés
 
