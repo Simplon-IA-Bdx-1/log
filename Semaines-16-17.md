@@ -35,7 +35,11 @@ Auteurs: William Brojanigo et Louis Dorard — tous droits réservés
 
 ## Vendredi 24/01 - Louis
 
-* Présentation sujet de veille: GridSearchCV et RandomSearchCV - Maxime Yohan Rachel Coco
+* Création comptes Azure. Quelques remarques:
+  * Possible d'utiliser Azure ML Studio, sans crédit, et sans avoir eu à donner sa CB. Peut-être d'autres produits Azure également.
+  * Crédit offert pendant 1 mois, a priori seulement si on donne sa CB
+  * Attention à "annuler" / retirer la CB dans 1 mois, pour ne pas être facturé
+  * Gardez un oeil régulièrement sur votre consommation, au cas où vous épuiseriez plus rapidement que prévu le crédit gratuit — sinon vous allez devoir payer!
 * Projet immo
   * Mise en commun
     * ce que vous avez appris et retirez du projet jusqu'à présent (travail équipe? git? scrapping?)
