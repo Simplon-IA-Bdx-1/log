@@ -8,6 +8,29 @@ Auteurs: William Brojanigo et Louis Dorard — tous droits réservés
   * API-fication d’un modèle avec Flask (librairie Python) - Nico C. Julien Silvia Damien
   * Ensembles et Random Forests - Thibaud Clement Alexis Rodolphe
 
+## Mardi 21/01 - William
+
+* Analyse de la fréquence des mots : présentation du contexte
+* La lemmatisation : concepts et application avec TreeTagger
+* Les stopwords : concepts et traitements
+* Application pratique (en groupe) : articles de presse en plusieurs langues
+* Présentation de l’analyse faite par chaque groupe
+
+## Mercredi 22/01 - William
+
+* L’analyse des sentiments : présentation du contexte
+* Application d’un lexicon : FEEL, la librairie R rfeel et la méthodologie appliquée chez 10h11
+* Application pratique (en groupe) : articles de presse en français
+* Présentation de l’analyse faite par chaque groupe
+* BONUS : fake articles et application pratique avec les chaînes de Markov (sans rentrer dans l'algorithme, ni dans le code)
+
+## Jeudi 23/01 - William
+
+* Text Classification : présentation du produit 10h11 “Social Passenger” et de la méthodologie appliquée
+* Focus : la génération d’un dataset d'apprentissage
+* Application pratique (1) : labellisation (individuel) des tweets en fonction de la tonalité, l’ironie et pub/presse
+* Application pratique (2) : en groupe, comparaison des labellisations et identification des tweets les plus en désaccord, présentation des résultats
+
 ## Vendredi 24/01 - Louis
 
 * Présentation sujet de veille: GridSearchCV et RandomSearchCV - Maxime Yohan Rachel Coco
