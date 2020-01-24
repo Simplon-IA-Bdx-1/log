@@ -22,12 +22,12 @@ Auteurs: William Brojanigo et Louis Dorard — tous droits réservés
   * groupe 6: FNAIM Gironde scrap open bar, appartements maisons sur toute la Gironde - 3505 biens avec 4 features (script a tourné en 1 heure) - BDD sur AWS - chacun différent modèle via différents outils - surévaluent les biens?
   * mise en commun features?
 * [Brief](https://gist.github.com/louisdorard/88e09b8fdc4be81c27cde6e1b9bb9f61)
-* Projet immo - branches/features/sous-projets pour 2 personnes:
+* Projet immo - suggestions sous-projets/branches/features pour 2 personnes:
   * relancer le scrapping et l'apprentissage facilement, et créer des fichiers train-2020-01-XX.csv (pareil pour val et test) et model-2020-01-XX.pkl
   * déploiement modèle avec Flask
+  * README pour Guillaume E. et Arnaud
   * enregistrement des logs d'apprentissage - cf brief
   * script pour re-générer fichiers train, val, test, modèle - cf brief
-  * README pour Guillaume E. et Arnaud
 * Infos avant l'alternance:
   * Faire un log / journal de bord
   * Préparez présentation sur votre entreprise, pour Mars
