@@ -49,6 +49,10 @@ Installer RISE en rajoutant une ligne rise à requirements.txt
     * Notes pour faire le lien entre les éléments de cette liste, et le code
     * Entre autres: récapitulatif méthodo Kaggle (1 par groupe)
 
+### Mardi 5/11 (Arnaud)
+
+TODO
+
 ### Mercredi 6/11 (Louis)
 
 * Reprise de la mise en commun (features, modèle choisi — BigML ou RandomForestClassifier ou XGBoost)
@@ -72,6 +76,10 @@ Installer RISE en rajoutant une ligne rise à requirements.txt
   * Seed dans BigML
 
 ### Jeudi 7/11
+
+#### Matin (Arnaud)
+
+TODO
 
 #### Aprem (Louis)
 
@@ -99,3 +107,7 @@ Installer RISE en rajoutant une ligne rise à requirements.txt
 
   * Créez un nouveau notebook, dans lequel vous calculerez une probabilité de défaut de remboursement.
   * Committez et partagez le lien
+
+## Vendredi 8/11 (Arnaud)
+
+TODO
