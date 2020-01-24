@@ -19,7 +19,13 @@ Auteurs: Arnaud de Mouhy et Louis Dorard — tous droits réservés
   * Comparez performance de “ensemble” et de “deepnet” pour afficher des courbes (learning curves) comme à la page 11 de MLY: en abscisse, pourcentage de données de train utilisées pour créer un modèle; en ordonnée, AUC du modèle créé, sur le val set.
 * Brief projet au propre: [Brief-classification-Kaggle.md](Brief-classification-Kaggle.md)
 
-### Mercredi 30/10 matin (Louis)
+### Mardi 29/10 (Arnaud)
+
+TODO
+
+### Mercredi 30/10
+
+#### Matin (Louis)
 
 Groupes de 4
 
@@ -31,7 +37,17 @@ Groupes de 4
   * Plein de choses qu’on fait qui ne servent pas à Kaggle. Par exemple, calcul du seuil optimal, plot de la learning curve…
 * Prenez du temps pour alimenter vos notes perso, commencées pendant la période où on manipulait le tableur et l'interface web de BigML, avec des notes sur la période où on a manipulé Pandas et BigML via Python.
 
-### Jeudi 31/10 aprem (Louis)
+#### Après-midi (Arnaud)
+
+TODO
+
+### Jeudi 31/10
+
+#### Matin (Arnaud)
+
+TODO
+
+#### Après-midi (Louis)
 
 * Point sur AUC
   * Comment ça fonctionne
