@@ -2,7 +2,7 @@
 
 Auteur: Louis Dorard — tous droits réservés
 
-## Mercredi
+## Mercredi 11/3 (Louis)
 
 * Présentation sujet de veille: GridSearchCV et RandomSearchCV - Maxime Yohan Rachel Coco
 * Présentations entreprise: ce qu'elle fait, les projets ML passés, ce que vous avez fait pendant ce mois d'alternance, ce sur quoi vous allez travailler par la suite
