@@ -10,6 +10,9 @@ Auteurs: Julien Tréguer, William Brojanigo et Louis Dorard — tous droits rés
 
 ## Mercredi 15/01 - Louis
 
+* Atelier debugging conda: "let's install python 32 bits!"
+  * `export CONDA_FORCE_32BIT=0`
+  * Sur Mac, quand on essaie de créer un environnement à partir d'un fichier .yml, cela donne lieu à une erreur -> essayer de comprendre pourquoi...
 * Présentation sujet de veille (5' chacun): 
   * Dropout (réseaux de neurones) - Christophe
   * Reproductibilité des résultats de cross_val_score quand n_jobs = -1
