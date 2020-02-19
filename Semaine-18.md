@@ -5,7 +5,17 @@ Auteur: Louis Dorard — tous droits réservés
 ## Mercredi 11/3 (Louis)
 
 * Présentation sujet de veille: GridSearchCV et RandomSearchCV - Maxime Yohan Rachel Coco
-* Présentations entreprise: ce qu'elle fait, les projets ML passés, ce que vous avez fait pendant ce mois d'alternance, ce sur quoi vous allez travailler par la suite
+* Présentations entreprise:
+   * Ce qu'elle fait
+   * Les projets ML passés ou en cours (ou autre projets, si pas de ML jusqu'à présent)
+   * Ce que vous avez fait pendant ce mois d'alternance: 
+      * Votre projet
+      * Les problématiques auxquelles vous avez fait face
+      * Celles que vous avez résolues
+      * Comment vous les avez résolues
+   * Ce sur quoi vous allez travailler à votre retour en Avril:
+      * Les difficultés qui restent à résoudre
+      * Les pistes de résolution
 * Projet immo
   * README pour Guillaume E. et Arnaud?
   * [Brief](https://gist.github.com/louisdorard/88e09b8fdc4be81c27cde6e1b9bb9f61)
