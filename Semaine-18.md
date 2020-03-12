@@ -2,6 +2,10 @@
 
 Auteur: Louis Dorard — tous droits réservés
 
+## Lundi 9/3 (Jean-Paul)
+
+Retour d'expérience et préparation DP-100
+
 ## Mardi 10/3 (Guillaume E.)
 
 Introduction aux principes du cloud (pay as you go, scalibility, redondance etc)
@@ -56,3 +60,7 @@ Aprem:
 * Réflexion passage sous Azure:
   * BDD à mettre dans Azure? ou pas: Attention aux coûts!!
   * Scrapper avec fonction "serverless", lancée périodiquement — voir doc Azure Functions: [triggers bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings), [create scheduled function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
+
+## Vendredi 13/3 (Perrine)
+
+Suite projets immo, en groupes
