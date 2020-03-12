@@ -35,7 +35,7 @@ Introduction aux principes du cloud (pay as you go, scalibility, redondance etc)
 * Projet immo
   
 
-## Jeudi
+## Jeudi 12/3 (Louis)
 
 Matin: projet immo
 * Reprendre le projet / se refamiliariser avec:
