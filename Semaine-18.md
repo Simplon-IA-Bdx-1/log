@@ -47,7 +47,12 @@ Matin: projet immo
    * Enregistrement des logs d'apprentissage - cf brief
 
 Aprem:
-* Présentation sujet de veille: GridSearchCV et RandomSearchCV - Maxime Yohan Rachel Coco
+* Veille
+  * Présentation GridSearchCV et RandomSearchCV - Maxime Yohan Rachel Coco
+  * Mise en application sur le dataset/problème de votre choix
+  * Rappel Flask + problématique de mise à jour du modèle
+  * Ré-appropriez-vous les sujets présentés jusqu'à présent
+  * Nouveaux sujets de veille: stay tuned!
 * Réflexion passage sous Azure:
   * BDD à mettre dans Azure? ou pas: Attention aux coûts!!
   * Scrapper avec fonction "serverless", lancée périodiquement — voir doc Azure Functions: [triggers bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings), [create scheduled function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
