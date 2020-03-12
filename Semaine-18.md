@@ -38,15 +38,16 @@ Introduction aux principes du cloud (pay as you go, scalibility, redondance etc)
 ## Jeudi
 
 Matin: projet immo
-* BDD à mettre dans Azure? ou pas: Attention aux coûts!!
-* Scrapper avec fonction "serverless", lancée périodiquement — voir doc Azure Functions: [triggers bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings), [create scheduled function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
-Cron à voir avec Arnaud - Azure Functions time trigger
-* README pour Guillaume E. et Arnaud?
-* [Brief](https://gist.github.com/louisdorard/88e09b8fdc4be81c27cde6e1b9bb9f61)
+* Reprendre le projet / se refamiliariser avec:
+  * Relire [Brief](https://gist.github.com/louisdorard/88e09b8fdc4be81c27cde6e1b9bb9f61)
+  * Ecrire / mettre à jour README — pour Guillaume E. et Arnaud?
 * Suggestions sous-projets/branches/features pour 2 personnes:
    * Script pour relancer le scrapping et l'apprentissage facilement, et créer des fichiers train-2020-01-XX.csv (pareil pour val et test) et model-2020-01-XX.pkl
    * Déploiement modèle avec Flask
    * Enregistrement des logs d'apprentissage - cf brief
+* Passage sous Azure:
+  * BDD à mettre dans Azure? ou pas: Attention aux coûts!!
+  * Scrapper avec fonction "serverless", lancée périodiquement — voir doc Azure Functions: [triggers bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings), [create scheduled function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
 
 Aprem:
 * Présentation sujet de veille: GridSearchCV et RandomSearchCV - Maxime Yohan Rachel Coco
