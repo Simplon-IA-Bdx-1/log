@@ -45,9 +45,9 @@ Matin: projet immo
    * Script pour relancer le scrapping et l'apprentissage facilement, et créer des fichiers train-2020-01-XX.csv (pareil pour val et test) et model-2020-01-XX.pkl
    * Déploiement modèle avec Flask
    * Enregistrement des logs d'apprentissage - cf brief
-* Passage sous Azure:
-  * BDD à mettre dans Azure? ou pas: Attention aux coûts!!
-  * Scrapper avec fonction "serverless", lancée périodiquement — voir doc Azure Functions: [triggers bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings), [create scheduled function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
 
 Aprem:
 * Présentation sujet de veille: GridSearchCV et RandomSearchCV - Maxime Yohan Rachel Coco
+* Réflexion passage sous Azure:
+  * BDD à mettre dans Azure? ou pas: Attention aux coûts!!
+  * Scrapper avec fonction "serverless", lancée périodiquement — voir doc Azure Functions: [triggers bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings), [create scheduled function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
