@@ -1,6 +1,4 @@
-# Semaines 16 et 17 — formation Simplon IA à Bordeaux, promo 1
-
-Note: seulement 2 jours sur la semaine 17!
+# Semaine 16 — formation Simplon IA à Bordeaux, promo 1
 
 Auteurs: William Brojanigo et Louis Dorard — tous droits réservés
 
@@ -62,14 +60,3 @@ Auteurs: William Brojanigo et Louis Dorard — tous droits réservés
     * [The Machine Learning Canvas](https://gumroad.com/l/mlcanvas/gbi40xs)
     * [Datasheets for Datasets](https://www.microsoft.com/en-us/research/publication/datasheets-for-datasets/)
   * Si vous avez le temps pendant l'alternance: préparez un README du projet immo pour Guillaume E. et Arnaud
-
-## Lundi 27/01/2020
-
-* Les traitements préliminaires à faire avant la création d’un matrice de documents
-* Le processus de Text Classification : application avec la librairie R “RTextTools”
-* Challenge (en groupe) : développement d’un modèle de Text Classification sur un dataset de tweets
-
-## Mardi 28/01/2020
-
-* Continuation du challenge
-* Présentation des résultats
