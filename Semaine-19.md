@@ -12,7 +12,7 @@ Veilles:
 
 Projet immo:
 * Point sur avancement:
-  * Doc à partager à Louis avec infos (au niveau groupe et au niveau individuel) sur
+  * 1 document par groupe à partager à Louis avec infos (au niveau groupe et au niveau individuel) sur
     * Ce que vous avez fait jusqu'à présent
     * Où vous en êtes
     * Ce que vous prévoyez pour la suite
