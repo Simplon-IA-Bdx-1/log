@@ -1,10 +1,12 @@
 # Semaine 18 — formation Simplon IA à Bordeaux, promo 1
 
-Auteur: Louis Dorard — tous droits réservés
+Auteur: Louis Dorard et Guillaume Etchepare — tous droits réservés
 
 ## Lundi 9/3 (Jean-Paul)
 
 Retour d'expérience et préparation DP-100
+* Changements au niveau de l'examen en 2020
+* Exemples de questions
 
 ## Mardi 10/3 (Guillaume E.)
 
