@@ -11,6 +11,7 @@ Télétravail cette semaine, cause Covid-19
 * Retour sur le brief projet real-estate
 * Questions-réponses sur le déploiement de modèles avec Flask
 * Finalisation projet en local
+* Atelier télétravail
 * Veille perso sur Azure ML en pratique
   * Constituez un doc. partagé pour vous aider à partager vos connaissances sur Azure et vous entraider en prévision du passage de certification
 
