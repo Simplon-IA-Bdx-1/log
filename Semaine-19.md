@@ -21,6 +21,13 @@ Télétravail cette semaine, cause Covid-19
 ## Mardi 17/3 (Julien)
 
 Veille: Exemple calcul nombre de poids et biais d'un CNN - Christophe
+* Introduction aux séries temporelles
+    * Définition
+    * Décomposition d'une série temporelle
+    * Stationnarité et test augmenté de Dickey-Fuller
+    * Modèles classiques
+
+Brief [ici](https://github.com/JTreguer/ia-bdx-ts-project1/blob/master/README.md)
 
 ## Mercredi 18/3 (Perrine)
 
