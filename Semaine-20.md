@@ -22,7 +22,7 @@ Télétravail cette semaine, cause Covid-19
 
 ## Mercredi 25/3 (Julien)
 
-Veille: Vectorisation en Python: remplacement des boucles par opérations sur tableaux + application pour tester si une série temporelle suit une marche aléatoire - Mehdi + 3 autres
+Veille: Vectorisation en Python: remplacement des boucles par opérations sur tableaux + application pour tester si une série temporelle suit une marche aléatoire - Mehdi, Laurent, Damien, Alexis
 
 ## Jeudi 26/3 (Louis)
 
