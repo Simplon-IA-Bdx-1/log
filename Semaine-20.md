@@ -10,7 +10,7 @@ Télétravail cette semaine, cause Covid-19
 
 * Retour sur le [brief projet real-estate](https://gist.github.com/louisdorard/88e09b8fdc4be81c27cde6e1b9bb9f61)
 * Questions-réponses sur le déploiement de modèles avec Flask
- * Exemple de (pseudo-)code => voir questions en commentaires
+  * Exemple de (pseudo-)code => voir questions en commentaires
 
 ```python
 from flask import Flask, request, jsonify
@@ -41,9 +41,12 @@ def predict():
     return result
 ```
 
- * Besoin (futur) de logguer quelle version de modèle a fait quelle prédiction, et de savoir recréer chaque version de modèle
- * [Doc scikit sur persistence modèle](https://scikit-learn.org/stable/modules/model_persistence.html) (voir la partie "In order to rebuild a similar model with future versions of scikit-learn, additional metadata should be saved along the pickled model")
+  * Besoin (futur) de logguer quelle version de modèle a fait quelle prédiction, et de savoir recréer chaque version de modèle
+  * [Doc scikit sur persistence modèle](https://scikit-learn.org/stable/modules/model_persistence.html) (voir la partie "In order to rebuild a similar model with future versions of scikit-learn, additional metadata should be saved along the pickled model")
 * Finalisation projet en local
+  * Point rapide d'avancement
+  * Recap des sites scrappés par chaque groupe
+  * Problématique de plus d'annonces (cause covid)... Quelles sont vos idées pour simuler l'arrivée de nouvelles annonces immobilières? (Sans non plus complexifier les choses niveau scrapping)
 * Veille perso sur Azure ML en pratique
   * Constituez un doc. partagé pour vous aider à partager vos connaissances sur Azure et vous entraider en prévision du passage de certification
 
