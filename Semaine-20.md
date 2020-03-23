@@ -11,13 +11,14 @@ Télétravail cette semaine, cause Covid-19
 * Retour sur le [brief projet real-estate](https://gist.github.com/louisdorard/88e09b8fdc4be81c27cde6e1b9bb9f61)
 * Questions-réponses sur le déploiement de modèles avec Flask
 * Finalisation projet en local
-* Atelier télétravail
 * Veille perso sur Azure ML en pratique
   * Constituez un doc. partagé pour vous aider à partager vos connaissances sur Azure et vous entraider en prévision du passage de certification
 
 ## Mardi 24/3 (Julien)
 
-Veille: Grid search avec time series dans scikit?! - Nico A
+* Veille: Grid search avec time series dans scikit?! - Nico A
+* Time Series
+* Atelier télétravail
 
 ## Mercredi 25/3 (Julien)
 
