@@ -75,6 +75,7 @@ Veille: Vectorisation en Python: remplacement des boucles par opérations sur ta
     * Côté travail en équipe
     * Côté technique
   * Difficultés en cours et travail restant
+* Idées amélioration de votre documentation, suite à la mise en commun?
 * Aprem passage sous Azure
 
 
