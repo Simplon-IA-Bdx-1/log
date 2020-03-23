@@ -8,7 +8,7 @@ Télétravail cette semaine, cause Covid-19
 
 (Pas de veille à présenter)
 
-* Retour sur le brief projet real-estate
+* Retour sur le [brief projet real-estate](https://gist.github.com/louisdorard/88e09b8fdc4be81c27cde6e1b9bb9f61)
 * Questions-réponses sur le déploiement de modèles avec Flask
 * Finalisation projet en local
 * Atelier télétravail
