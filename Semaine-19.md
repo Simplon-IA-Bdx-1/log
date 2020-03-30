@@ -9,6 +9,14 @@ Télétravail cette semaine, cause Covid-19
 * Veilles:
   * DVC.org — Thibaud, Rachel
   * MLflow - Pierre, Vincent
+  * Comparatif:
+    * "DVC plus structuré car basé sur git" (Pierre)
+    * "MLflow permet de consulter l'historique et le suivi assez facilement et rapidement" (Rachel)
+    * "DVC permet de track data & experiments mais pas de déployer les modèles. Il n'a pas d'interface graphique. Du coup ça a l'air assez complémentaire si on utilise DVC juste pour la data et flow pour les modèles mais ça fait plus à apprendre." (Thibaud)
+(la visualisation)
+    * MLflow peut gérer des pipelines, de façon similaire à DVC (ils appellent ça un "multistep workflow"): https://github.com/mlflow/mlflow/tree/master/examples/multistep_workflow Cependant DVC a une meilleure façon de prendre en compte quels sont les fichiers créés par un "step" de pipeline/workflow et quels sont les fichiers dont ce step dépend, de sorte à ce qu'on sache quels steps il faut relancer dès qu'il y a un changement d'un des fichiers.
+    * DVC peut tracker des métriques, de façon similaire à MLflow https://dvc.org/doc/command-reference/metrics#metrics Il faut pour cela un script Python qui produise un fichier json dans lequel on stocke les valeurs de métriques.
+    * Les 2 outils sont complémentaires! Cherchez des articles qui parlent de l'utilisation des 2.
 * Projet real-estate:
   * Point sur avancement:
     * 1 document par groupe à partager à Louis avec infos (au niveau groupe et au niveau individuel) sur
