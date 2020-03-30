@@ -82,5 +82,5 @@ Veille: Vectorisation en Python: remplacement des boucles par opérations sur ta
 ## Vendredi 27/3 (Guillaume)
 
 Veilles:
-* ...
-* ...
+* Exécution d’un script d’entraînement sur une **compute target** (en local, ou sur une VM basique) avec logging des métriques de performances dans Azure Machine Learning Services (AMLS) -> Maxime, Julien
+* Déploiement avec **Azure Functions** (avec VS code si possible) de fonctions basiques en Python -> Nicolas S, Rodolphe
