@@ -52,13 +52,40 @@ def predict():
 
 ## Mardi 24/3 (Julien)
 
-* Veille: Grid search avec time series dans scikit?! - Nico A
-* Time Series
-* Atelier télétravail
+* Veille: Split des séries temporelles (Nicolas A)
+* Suite de l'introduction aux séries temporelles dédiée aux méthodes statistiques classiques
+* Revue de la décomposition de séries temporelles en niveau, tendance, saison(s) et résidus
+* Application dans BigML
+* Choix d'une série temporelle pour les projets (sélection dans bases dataworld ou UCI ou parmi 7 séries dans un article de J. Brownlee)
+* Vidéos à regarder sur le module Time Series de BigML
+* Retour sur la stationnarité
+* Test augmenté de Dickey-Fuller et autres façons de constater la stationnarité
+* Production d'un livrable, notebook Python :
+  * Chargement d'une série temporelle
+      * Visualisation de la série
+      * Commentaire sur les caractéristiques de la série
+      * Nettoyage éventuel des données
+      * Prédiction par une méthode classique (ARMA/ARIMA) :
+           * Décomposition de la série en tendance, saisons, résidus
+           * Test de stationnarité (ADF)
+           * Plot d'auto-corrélation (ACF/PACF)
+           * Choix d'un modèle (hyper-paramètres)
+           * Split des données
+           * Prédiction sur l'ensemble de tests avec :
+               * Visualisation
+               * Calcul d'une métrique de performance
+* Vidéo à regarder sur le modèle auto-régressif
+* Points communs et différences entre la régression linéaire et un modèle auto-régressif
+* Mise en commun des travaux
 
 ## Mercredi 25/3 (Julien)
 
-Veille: Vectorisation en Python: remplacement des boucles par opérations sur tableaux + application pour tester si une série temporelle suit une marche aléatoire - Mehdi, Laurent, Damien, Alexis
+Veille: Vectorisation en Python: remplacement des boucles par opérations sur tableaux + application pour tester si une série temporelle suit une marche aléatoire - Mehdi, Laurent, Damien, Alexis --> reportée à la semaine suivante
+
+* Suite des travaux sur la prédiction ARIMA
+* Parenthèse sur ACF/PACF sous forme d'exercices en Python sur des séries temporelles simples synthétisées par les apprenants
+* Choix des ordres des modèles AR/MA
+* Mise en commun
 
 ## Jeudi 26/3 (Louis)
 
