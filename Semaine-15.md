@@ -18,6 +18,7 @@ Auteurs: Julien Tréguer, William Brojanigo et Louis Dorard — tous droits rés
   * Reproductibilité des résultats de cross_val_score quand n_jobs = -1
   * Git flow - Laurent
   * Lift (mesure de performance) - Pierre
+* Présentation Nicolas A sur movie predictor
 * Lancement projet immo "end-to-end"
   * Constituer des groupes de 4, avec des profils complémentaires: ceux qui ont une expérience / bonne connaissance de git et git flow, de la méthodo Agile, ceux qui veulent développer leurs compétences BDD, EDA, ou création de modèle
   * Brief - TODO

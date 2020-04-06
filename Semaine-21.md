@@ -1,4 +1,4 @@
-# Semaine 20 — formation Simplon IA à Bordeaux, promo 1
+# Semaine 21 — formation Simplon IA à Bordeaux, promo 1
 
 Auteurs: Louis Dorard et Julien Tréguer — tous droits réservés
 
@@ -33,15 +33,20 @@ Aprem:
 * Présentation Guillaume du **diagramme d'architecture** de leur projet real-estate (cf "[Battle Plan](https://docs.google.com/presentation/d/1oetYdzHJYhJFiQCietzi2FQSB6ytCLpKYnuOTevd3ms/edit#slide=id.g722598b18e_0_268)")
 * Point consommation Azure (attention sélection période)
 * Suite passage real-estate sous Azure
+* Envoyer à Louis les évaluations que vous aviez faites pour d’autres sur leur projet GMSC, et celles que vous aviez reçues. Les fichiers doivent être nommés “GMSC - évaluation de NOM DE L’EVALUE par NOM DE L’EVALUATEUR” + extension.
 * Points individuels
 
 
 ## Vendredi 3/4 (Louis)
 
 * Veilles en 5':
-  * MICE and IterativeImputer (dans scikit)
-  * SMOTE
-  * Decision Jungle
+  * MICE and IterativeImputer (dans scikit) — Corantin
+  * SMOTE — Damien
+  * Decision Jungle — Vincent
 * Point consommation Azure (attention sélection période)
-* Suite passage real-estate sous Azure
+* Finalisation passage real-estate sous Azure — état des lieux pour chaque groupe et mise en commun:
+  * Scrapper — fonctionne en Azure Function, ou autre?
+  * Création de modèle et évaluation — fonctionne avec Azure ML? Pipeline ou autre?
+  * Enregistrement/lecture des datasets dans/depuis Blob storage?
+  * Déploiement endpoint et utilisation?
 * Points individuels?
