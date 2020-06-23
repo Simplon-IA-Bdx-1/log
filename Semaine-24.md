@@ -84,3 +84,11 @@ MLC:
 
 Questions à adresser (suite):
 * Livrables / spécifications (cf exemple proposition Laurent C)
+
+## Vendredi
+
+Questions à se poser avant le début d'un projet ML:
+* Revue de ces questions tous ensemble, avec retours d'expérience
+* Tentative de réponse à ces questions par les étudiants autour de leur projet
+
+Speed dating: entretien de 10/15min avec les apprenants souhaitant avoir un retour sur leurs idées de projet
