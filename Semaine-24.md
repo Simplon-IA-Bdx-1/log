@@ -1,8 +1,8 @@
 # Semaine 24: lancement projets chef d'oeuvre — formation Simplon IA à Bordeaux, promo 1
 
-Auteur: Louis Dorard — tous droits réservés
+Auteurs: Guillaume Etchepare et Louis Dorard — tous droits réservés
 
-## Lundi 15 juin
+## Lundi 15 juin (Louis)
 
 Point sur vos apprentissages et compétences -> MàJ
 * En entreprise
@@ -84,3 +84,5 @@ MLC:
 
 Questions à adresser (suite):
 * Livrables / spécifications (cf exemple proposition Laurent C)
+
+## Vendredi (Guillaume)

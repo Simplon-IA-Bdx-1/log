@@ -1,4 +1,4 @@
-# Semaine 20 — formation Simplon IA à Bordeaux, promo 1
+# Semaine 22 — formation Simplon IA à Bordeaux, promo 1
 
 Auteur: Louis Dorard — tous droits réservés
 
@@ -27,3 +27,14 @@ Auteur: Louis Dorard — tous droits réservés
 * nowledgeable:
   * Fin Evaluation 2 - Machine Learning
   * Evaluation 5 - Keras
+* DP-100
+  * Feuille de route jusqu'au 11 mai?
+  * Préparez vos interrogations pour la semaine du 11
+
+## Vendredi 10 avril (Louis)
+
+* Veilles
+* DP-100
+* Solutions exercices nowledgeable?
+* Infos sur projet chef d'oeuvre
+* Auto-formation Azure ML + préparation DP-100 THEORIQUE
