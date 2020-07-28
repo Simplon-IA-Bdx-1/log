@@ -27,10 +27,6 @@ Pour le contexte, voici un message posté à la fin de la semaine d'Avril ([Sema
   * Remarque: choisir un projet avec même type d’input, mêmes outils, ou mêmes méthodos qu’en entreprise?
 * Réponses au formulaire de suivi: compétences + sujets à approfondir + commentaires
 
-### Nowledgeable
-
-Evaluation 6: Pandas feature engineering
-
 ### ML Katas
 
 https://github.com/bpesquet/machine-learning-katas
@@ -53,3 +49,19 @@ Debug: performance de 0 sur le test set...
   * Possible de simplifier et d'enlever certains steps optionnels, pour voir si le bug est au niveau de ces steps optionnels ou pas (par exemple: normalisation des données est optionnelle si on utilise des arbres de décision)
   * Modélisation: un test rapide consisterait à changer d'algo -> random forest
   * Standardisation: le bug typique est d'appliquer la standardisation sur le train et pas sur le test; autre bug typique: standardiser à partir de la totalité des données => fuite => résultats trop bons
+
+## Mardi
+
+### ML Katas
+
+* On continue sur les katas d'hier (le 3è sur heart disease est le plus long)
+* Comparaison LinearRegression et SGDRegressor: performance du modèle? temps de fit?
+
+### Nowledgeable
+
+* Evaluation 6 - Pandas feature engineering => présentation de Nico C
+
+### Projet mini Kaggle API
+
+Sur [GitHub Classroom](https://classroom.github.com/a/Lc-yG38A) - voir [brief](https://gist.github.com/louisdorard/2652fc3b53b90c8492b732b5717f49e1).
+
