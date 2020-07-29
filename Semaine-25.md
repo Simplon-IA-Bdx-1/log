@@ -65,3 +65,22 @@ Debug: performance de 0 sur le test set...
 
 Sur [GitHub Classroom](https://classroom.github.com/a/Lc-yG38A) - voir [brief](https://gist.github.com/louisdorard/2652fc3b53b90c8492b732b5717f49e1).
 
+## Mercredi
+
+Fin projet mini Kaggle API
+* Environnement de dev opérationnel?
+  * Docker opérationnel?
+  * **MySQL, images docker, ou autres outils avec Arnaud?**
+  * **Combien d'installations de Python avez-vous?**
+  * Environnements Python (Anaconda ou venv ou autre - poetry)
+    * Ménage: lister tous les environnements, puis supprimer ceux qui ne sont plus d'actualité (mais sauvegardez leur configuration? ex: requirements.txt ou environment.yml)
+    * Réviser mécanique de création, activation, et suppression d'environnement
+    * Environnements à avoir: Un pour votre projet chef d'oeuvre. Un pour mini Kaggle API. Un pour les kata ML (ça peut être votre environnement ML par défaut).
+    * **Les environnements apparaissent-ils dans votre IDE?** (VS Code, Jupyter, etc.)
+* Résolution de problèmes sur Windows:
+  * Penser à ouvrir 2 terminaux: un sur lequel lancer flask, l'autre pour curl
+  * Si problème de permission / privilège, ouvrir terminaux en tant qu'admin
+* Pair évaluation ([binômes](https://keamk.com/xhnalupl4eyqy1sr) - [formulaire](https://airtable.com/shrjfYYlQRlF1GN9f))
+
+[Evaluation ML — 2](https://forms.gle/mKHbjUSknJAsu1xU9)
+
