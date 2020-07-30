@@ -70,17 +70,52 @@ Sur [GitHub Classroom](https://classroom.github.com/a/Lc-yG38A) - voir [brief](h
 Fin projet mini Kaggle API
 * Environnement de dev opérationnel?
   * Docker opérationnel?
-  * **MySQL, images docker, ou autres outils avec Arnaud?**
-  * **Combien d'installations de Python avez-vous?**
+  * MySQL, images docker, ou autres outils avec Arnaud?
+  * Combien d'installations de Python avez-vous?
   * Environnements Python (Anaconda ou venv ou autre - poetry)
     * Ménage: lister tous les environnements, puis supprimer ceux qui ne sont plus d'actualité (mais sauvegardez leur configuration? ex: requirements.txt ou environment.yml)
     * Réviser mécanique de création, activation, et suppression d'environnement
     * Environnements à avoir: Un pour votre projet chef d'oeuvre. Un pour mini Kaggle API. Un pour les kata ML (ça peut être votre environnement ML par défaut).
-    * **Les environnements apparaissent-ils dans votre IDE?** (VS Code, Jupyter, etc.)
+    * Les environnements apparaissent-ils dans votre IDE? (VS Code, Jupyter, etc.)
 * Résolution de problèmes sur Windows:
   * Penser à ouvrir 2 terminaux: un sur lequel lancer flask, l'autre pour curl
   * Si problème de permission / privilège, ouvrir terminaux en tant qu'admin
 * Pair évaluation ([binômes](https://keamk.com/xhnalupl4eyqy1sr) - [formulaire](https://airtable.com/shrjfYYlQRlF1GN9f))
 
 [Evaluation ML — 2](https://forms.gle/mKHbjUSknJAsu1xU9)
+
+## Jeudi
+
+### Révisions (Matin)
+
+* Relisez MLY
+  * Chapitres 1 à 32
+  * Pour certains la partie "Training and testing on different distributions" sera très pertinente
+  * Une fois que vous aurez une première pipeline en place, avec des premiers résultats, la partie "Debugging inference algorithms" vous intéressera peut-être
+  * Je recommande pas "end-to-end deep learning" à ce stade, mais pourquoi pas plus tard (pour ceux qui utilisent des réseaux de neurones dans leurs projets)
+  * "Error analysis by parts" est très intéressant quand il y a plusieurs composants qui s'imbriquent et qu'il s'agit de trouver lequel fait mal son boulot, quand on a de mauvais résultats
+* Discussion sur vos réponses à "Evaluation ML" sur Nowledgeable et "Evaluation ML — 2" sur Google.
+  * Expliquer ce qu'est ce que le "class imbalance" quand on fait de la classification. Quelle métrique d'évaluation pose problème quand on est confronté à ce phénomène ? Quelle autre métrique recommendez-vous ?
+  * Expliquer brièvement ce qu'est l'overfitting et quels sont les grandes manières de la combattre 
+    * Overfitting du train set
+    * Overfitting du val set
+  * En supposant que vous ayez de bonnes performaces de train mais que sur le test ça ne marche pas, à par de l’overfitting quel problème peut être envisagé
+    * Train pas représentatif du test
+    * Test pas pré-processé de la même façon que train
+
+### Points individuels
+
+### Projets chef d'oeuvre (Aprem)
+
+* Structure des rapports / doc projet dans la méthodo TDSP: https://github.com/Azure/Azure-TDSP-ProjectTemplate/
+  * Schéma BDD
+  * Dictionnaire de données
+  * Dossier Sample_Data; extraits de jeu de données (avec valeurs exemples, voire bidons)
+  * Model / Final Report
+* Repo GitHub pour votre code? (et données, si petits fichiers de moins d'1 Mo, en petit nombre)
+* DVC pour données?
+* Binôme de réflexion - je vous laisse choisir et vous contacter les uns les autres (vous pourrez également solliciter d’autres gens, bien sûr, mais ça vous fera un premier retour extérieur)
+
+## Vendredi (Arnaud)
+
 
