@@ -30,4 +30,28 @@ Auteurs: Guillaume Etchepare, Arnaud de Mouhy et Louis Dorard — tous droits r�
   * Problème des indices: sont-ils conservés suite au split? à la génération du fichier de prédictions?
   * Code robuste aux prédictions dans le désordre?
   * Comment tester que ça prend bien en compte le fichier prédictions envoyé, et que ça calcule bien l'AUC?
+    * Essayer avec prédictions aléatoires -> AUC devrait être de 0.5
+    * Essayer avec prédictions d'un vrai modèle -> AUC devrait être 0.7-0.8
+    * Essayer avec les vraies valeures d'output -> AUC devrait être de 1
+
+## Mardi (Louis)
+
+### Matin
+
+* Tour de table: nouveautés côté entreprise et côté projet chef d'oeuvre
+* Révision des veilles précédentes
+* Suite activités de la veille.
+
+### Aprem: optimisation hyper-paramètres
+
+Utilisez Grid Search pour tuner les hyper-paramètres de Random Forest sur Boston Housing (dans les katas)
+* Créez un notebook boston_housing_RF.ipynb
+* Vous pouvez commencer ce notebook par `%run boston_housing.ipynb` (cela fait référence au kata que vous aviez déjà fait... c'est juste une suggestion!)
+* Commencez avec un seul hyper-paramètre à tuner: disons max_depth. Tracez la valeur de R^2 en fonction de max_depth.
+* Commit/push dans votre repo machine-learning-katas.
+
+Utilisez Randomized Search pour tuner les hyper-paramètres de RF sur Kaggle GMSC.
+* Expliquez votre stratégie d'utilisation de Grid / Randomized Search. Comment choisissez-vous l'espace à chercher / le grid?
+* Quelle progression observez-vous sur votre score Kaggle?
+* Commit/push dans votre repo GMSC.
 
