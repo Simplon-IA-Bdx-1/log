@@ -12,6 +12,10 @@ Auteurs: Guillaume Etchepare, Arnaud de Mouhy et Louis Dorard — tous droits r�
   * Data preprocessing
   * Classification metrics
   * Linear regression
+    * Questions optionnelles:
+      * "Using the normal equation, compute the theta vector that minimizes loss into the `theta_best` variable" -> vous pouvez aller directement sur "Create a scikit-learn `LinearRegression` into the variable `model`"
+      * "Iterative Approach: Batch Gradient Descent"
+      * Première question de "Iterative Approach: Stochastic Gradient Descent" -> vous pouvez aller directement sur "Create a scikit-learn `SGDRegressor` into the variable `model`".
 
 ### Aprem
 
