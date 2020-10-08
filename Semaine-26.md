@@ -55,3 +55,22 @@ Utilisez Randomized Search pour tuner les hyper-paramètres de RF sur Kaggle GMS
 * Quelle progression observez-vous sur votre score Kaggle?
 * Commit/push dans votre repo GMSC.
 
+## Vendredi (Louis)
+
+* Formulaire Airtable à remplir: https://airtable.com/shrvQOQG6PYpNzqcr
+
+### Projets
+
+* Travail individuel + points de suivi avec Louis
+* Préparation des présentations
+* Présentations! (Au retour de la pause dej.)
+
+### Evaluation ML
+
+Si le temps le permet: 3 questions, 10' par question, puis discussion.
+
+### Travail à faire d'ici Novembre
+
+* Finir les katas dont on a parlé en classe
+* Finir l'exercice d'optimisation d'hyper-paramètres sur Kaggle GMSC
+* Lire [Machine Learning in action](https://bpesquet.github.io/mlhandbook/fundamentals/machine_learning_in_action.html)
