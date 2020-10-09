@@ -64,7 +64,7 @@ Utilisez Randomized Search pour tuner les hyper-paramètres de RF sur Kaggle GMS
 * KataML Deep learning (NLP, Computer Vision ou Forecast)
 * Entretiens projet chef d'oeuvre
 
-### Aprem: optimisation hyper-paramètres
+### Aprem
 
 * Entretiens projet chef d'oeuvre
 * KataML Deep learning et/ou travail individuel sur projet chef d'oeuvre
