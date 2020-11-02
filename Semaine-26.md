@@ -55,6 +55,20 @@ Utilisez Randomized Search pour tuner les hyper-paramètres de RF sur Kaggle GMS
 * Quelle progression observez-vous sur votre score Kaggle?
 * Commit/push dans votre repo GMSC.
 
+## Jeudi (Guillaume)
+
+### Matin
+
+* Revue du Deep learning (source: https://fr.slideshare.net/Niji_Digital/introduction-au-deep-learning)
+* Spécificités pour le Computer Vision
+* KataML Deep learning (NLP, Computer Vision ou Forecast)
+* Entretiens projet chef d'oeuvre
+
+### Aprem
+
+* Entretiens projet chef d'oeuvre
+* KataML Deep learning et/ou travail individuel sur projet chef d'oeuvre
+
 ## Vendredi (Louis)
 
 * Formulaire Airtable à remplir: https://airtable.com/shrvQOQG6PYpNzqcr
