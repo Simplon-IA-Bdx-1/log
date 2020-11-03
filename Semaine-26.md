@@ -20,6 +20,8 @@ Auteurs: Guillaume Etchepare, Arnaud de Mouhy et Louis Dorard — tous droits r�
 ### Aprem
 
 * Katas:
+  * Ajouter [bpesquet/mlkatas](https://github.com/bpesquet/mlkatas/) en git remote. Git pull ok? Pas de conflit avec votre travail précédent?
+  * Faites un git push de votre travail jusqu'à présent
   * Finir _algorithms_
   * Dans _models_ on avait déjà vu breast tumors, housing prices, heart disease, iris
   * On continue avec planar data et diabetes.
@@ -55,6 +57,15 @@ Utilisez Randomized Search pour tuner les hyper-paramètres de RF sur Kaggle GMS
 * Quelle progression observez-vous sur votre score Kaggle?
 * Commit/push dans votre repo GMSC.
 
+
+## Mercredi (Arnaud)
+
+* Tour de table: nouveautés côté entreprise et côté projet chef d'oeuvre
+* Pratique du côté **relationnel** des BDD, jointures, relations one-to-one, one-to-many, many-to-many, etc.
+* Optimisation BDD
+* Atelier git: gestion conflits, rebase, etc.
+
+
 ## Jeudi (Guillaume)
 
 ### Matin
@@ -69,15 +80,20 @@ Utilisez Randomized Search pour tuner les hyper-paramètres de RF sur Kaggle GMS
 * Entretiens projet chef d'oeuvre
 * KataML Deep learning et/ou travail individuel sur projet chef d'oeuvre
 
+
 ## Vendredi (Louis)
 
-* Formulaire Airtable à remplir: https://airtable.com/shrvQOQG6PYpNzqcr
+* GPU?
+* Point sur 2 dernières journées
+* Formulaires Airtable à remplir:
+  * Si infos sur votre projet ont changé: https://airtable.com/shrpxXEt4PeeOoETl
+  * Apprentissages: https://airtable.com/shrvQOQG6PYpNzqcr
 
 ### Projets
 
 * Travail individuel + points de suivi avec Louis
 * Préparation des présentations
-* Présentations! (Au retour de la pause dej.)
+* Présentations! Au retour de la pause dej: Silvia, Baptiste, Rodolphe, Vincent, Julien
 
 ### Evaluation ML
 
