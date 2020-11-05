@@ -65,7 +65,7 @@ Matin:
 * Veille sur 2 sujets:
     * Introduction NLP (Julien), lien vers la [présentation](https://github.com/Simplon-IA-Bdx-1/veille-NLP)
     * Transfer Learning appliqué au NLP: spécificités, implémentation avec la librairie open source FARM. Lien vers la [présentation](https://teams.microsoft.com/_#/school/files/G%C3%A9n%C3%A9ral?threadId=19%3Ac7585b4ffb5f43dba489bc96ea8ce368%40thread.tacv2&ctx=channel&context=Veille%2520Transfer%2520Learning%2520NLP&rootfolder=%252Fsites%252FBORDEAUX%252FDocuments%2520partages%252FGeneral%252FVeille%2520Transfer%2520Learning%2520NLP)
-* Présentation du [lab NLP] (https://github.com/getchepare/nlp-yelp-polarity-reviews)
+* Présentation du [lab NLP](https://github.com/getchepare/nlp-yelp-polarity-reviews)
 * Travail sur le notebook TFIDF/RandomForest
 
 Après-midi:
