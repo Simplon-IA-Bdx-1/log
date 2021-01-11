@@ -58,3 +58,16 @@ Matin:
       * On rajoute à ce dataset une colonne qui dit d'où vient l'input: "train" ou "test". On mélange le dataset et on considère cette dernière colonne comme output à prédire => problème de classification binaire.
       * On évalue via cross-test la performance d'un modèle simple (decision tree, qu'on peut d'ailleurs inspecter) sur ce problème. F1 meilleur que random?
   * Discussion (15')
+* Démo analyse classifications wolf/dog avec mlxtend's [classification_analysis](https://github.com/louisdorard/mlxtend/blob/master/mlxtend/evaluate/classification_analysis.py) et [lime](https://github.com/marcotcr/lime)
+* Présentations projets: Rachel, Laurent, Alexis
+* On se retrouve en janvier! Restera février et mars. Oral blanc en février.
+* Point sur le travail à effectuer pour votre chef d'oeuvre
+  * 4h / semaine?
+  * 150h
+  * Prochains sujets à aborder: ok pour faire RL, mais hésitez pas à faire part de ce qui vous serait utile pour votre projet. Vous sentez-vous avoir toutes les cartes en main? Si non, de quoi avez-vous besoin?
+
+## Jeudi 5 novembre (Guillaume): NLP et Transfer Learning
+
+## Vendredi 6 novembre (Arnaud): BDD
+
+
